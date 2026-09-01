@@ -1,0 +1,27 @@
+name: Sync CSV from campsiteatlas.com
+on:
+  schedule:
+    - cron: "17 12 * * *"
+  workflow_dispatch: {}
+permissions:
+  contents: write
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - name: Pull published CSV
+        run: |
+          set -e
+          curl -fsS https://campsiteatlas.com/data/campgrounds.csv -o campgrounds.csv
+          curl -fsS https://campsiteatlas.com/data/SNAPSHOT.txt -o SNAPSHOT.txt
+          [ "$(wc -l < campgrounds.csv)" -gt 5000 ] || { echo "too small, aborting"; exit 1; }
+          sed -i "s/This repository snapshot: data retrieved .*\./This repository snapshot: data retrieved $(cat SNAPSHOT.txt)./" README.md
+      - name: Commit if changed
+        run: |
+          git config user.name "campsite-atlas-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "Data refresh $(date -u +%F) from campsiteatlas.com/data/"
+          git push
