@@ -3,7 +3,7 @@
 Every campground in the U.S. federal recreation system (Forest Service, Army
 Corps, National Park Service, BLM, Bureau of Reclamation, Fish & Wildlife),
 cleaned from the Recreation.gov RIDB full export and refreshed nightly.
-This repository snapshot: data retrieved September 03, 2026.
+This repository snapshot: data retrieved September 04, 2026.
 
 ## campgrounds.csv (one row per campground, 5,780 rows)
 | Column | Meaning |
