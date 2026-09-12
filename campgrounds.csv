@@ -243,7 +243,7 @@ facility_id,name,state,agency,rec_area,lat,lon,reservable,total_sites,electric,w
 10067336,Crooked Creek Lake Pavilions,PA,USACE,Crooked Creek Lake,40.710518,-79.513596,True,6,False,False,False,False,False,,False,https://www.recreation.gov/camping/campgrounds/10067336,
 10067346,Haypress Campground,CA,NPS,Golden Gate National Recreation Area,37.860800,-122.545800,True,6,False,False,False,False,False,,False,https://www.recreation.gov/camping/campgrounds/10067346,https://www.recreation.gov/camping/campgrounds/10067346
 10068459,Callville Bay Campground,NV,NPS,Lake Mead National Recreation Area,36.139439,-114.727090,True,52,False,False,False,True,True,,False,https://www.recreation.gov/camping/campgrounds/10068459,https://www.recreation.gov/camping/campgrounds/10068459
-10068557,Hosmer Grove Campground,HI,NPS,Haleakalā National Park,20.706930,-156.159177,True,6,False,False,False,False,False,,False,https://www.recreation.gov/camping/campgrounds/10068557,
+10068557,Hosmer Grove Campground,HI,NPS,Haleakalā National Park,20.706930,-156.159177,True,6,False,False,False,False,False,,False,https://www.recreation.gov/camping/campgrounds/10068557,https://www.nps.gov/hale/planyourvisit/drive-up-camping.htm
 10068563,Kipahulu Campground,HI,NPS,Haleakalā National Park,20.706930,-156.159177,True,21,False,False,False,True,False,,False,https://www.recreation.gov/camping/campgrounds/10068563,
 10068584,Paraloma Park,AR,USACE,Millwood Lake,33.788993,-94.010749,True,30,True,True,False,True,True,,False,https://www.recreation.gov/camping/campgrounds/10068584,
 10070059,Morefield Campground,CO,NPS,Mesa Verde National Park,37.301499,-108.417912,False,267,False,False,False,False,False,,False,,https://www.nps.gov/meve/planyourvisit/camping.htm
@@ -1291,7 +1291,7 @@ facility_id,name,state,agency,rec_area,lat,lon,reservable,total_sites,electric,w
 10355761,Lewis River Hc (Wa) Gifford Pinchot Nf,WA,FS,Gifford Pinchot National Forest,46.185530,-121.850070,True,4,False,False,False,False,False,,False,https://www.recreation.gov/camping/campgrounds/10355761,
 10355766,Lebar Horse Camp,WA,FS,Olympic National Forest,47.522245,-123.709100,True,13,False,False,False,True,False,,False,https://www.recreation.gov/camping/campgrounds/10355766,
 10355780,Littleton Horse Camp,WA,FS,Olympic National Forest,47.522245,-123.709100,True,10,False,False,False,True,False,,False,https://www.recreation.gov/camping/campgrounds/10355780,
-10355837,Cave Creek Campground,OR,NPS,Oregon Caves National Monument & Preserve,42.103191,-123.401859,True,17,False,False,False,True,False,20,False,https://www.recreation.gov/camping/campgrounds/10355837,https://www.nps.gov/orca/planyourvisit/campgrounds.htm
+10355837,Cave Creek Campground,OR,NPS,Oregon Caves National Monument & Preserve,42.103191,-123.401859,True,17,False,False,False,True,True,20,False,https://www.recreation.gov/camping/campgrounds/10355837,https://www.nps.gov/orca/planyourvisit/campgrounds.htm
 10355855,Tarpons Roost Cabin,ID,BLM,Salmon Field Office (BLM),45.010573,-113.612060,True,1,False,False,False,False,True,,False,https://www.recreation.gov/camping/campgrounds/10355855,
 10355857,Umatilla Forks Campground,WA,FS,Umatilla National Forest,45.642100,-118.686290,True,8,False,False,False,False,False,,False,https://www.recreation.gov/camping/campgrounds/10355857,
 10355922,Watch Hill Bayview House,NY,NPS,Fire Island National Seashore,40.690654,-72.990313,True,1,True,True,False,False,False,,False,https://www.recreation.gov/camping/campgrounds/10355922,
@@ -5376,7 +5376,7 @@ facility_id,name,state,agency,rec_area,lat,lon,reservable,total_sites,electric,w
 258567,Town Creek Hiker-Biker Overnight (Hbo) Campsite,WV,NPS,Chesapeake & Ohio Canal National Historical Park,39.524461,-78.538643,False,0,False,False,False,False,False,,True,,
 258595,City Of Rocks Campground,ID,NPS,City Of Rocks National Reserve,42.067203,-113.701382,False,0,False,False,False,False,False,,False,,https://www.nps.gov/ciro/planyourvisit/camping.htm
 258613,Lost Creek Campground,OR,NPS,Crater Lake National Park,42.879749,-122.038711,False,0,False,False,False,False,False,,False,,https://www.nps.gov/crla/planyourvisit/lost_creek.htm
-258617,Wilderness Road Campground,VA,NPS,Cumberland Gap National Historical Park,36.604460,-83.632539,True,154,True,False,False,True,True,50,False,https://www.recreation.gov/camping/campgrounds/258617,
+258617,Wilderness Road Campground,VA,NPS,Cumberland Gap National Historical Park,36.604460,-83.632539,True,154,True,False,False,True,True,50,False,https://www.recreation.gov/camping/campgrounds/258617,https://www.nps.gov/cuga/planyourvisit/campgrounds.htm
 258630,Sage Creek Campground,SD,NPS,Badlands National Park,43.893146,-102.414254,False,0,False,False,False,False,False,,True,,https://www.nps.gov/thingstodo/backcountry-camping-badl.htm
 258667,Crabtree Falls Campground,NC,NPS,Blue Ridge Parkway,35.565720,-82.486485,True,84,False,False,False,True,True,55,False,https://www.recreation.gov/camping/campgrounds/258667,https://www.nps.gov/blri/planyourvisit/crabtree-falls-cg.htm
 258696,Rush Campground,AR,NPS,Buffalo National River,36.122741,-92.550445,False,0,False,False,False,False,False,,False,,https://www.nps.gov/buff/planyourvisit/camping.htm
@@ -5768,7 +5768,7 @@ facility_id,name,state,agency,rec_area,lat,lon,reservable,total_sites,electric,w
 274351,Buffalo Creek Campground,WY,BLM,South Bighorn/Red Wall Back Country Byway,43.438542,-107.221930,False,0,False,False,False,False,False,,True,,
 274353,Grave Springs Campground,WY,BLM,South Bighorn/Red Wall Back Country Byway,43.461523,-107.227947,False,0,False,False,False,False,False,,True,,
 274354,Rim Campground,WY,BLM,Muddy Mountain Environmental Education Area,42.680857,-106.258580,False,0,False,False,False,False,False,,False,,
-274410,(Lake Alpine)  Silver Tip Campground,CA,FS,Stanislaus National Forest,38.481100,-120.017000,True,22,False,False,False,True,True,48,False,https://www.recreation.gov/camping/campgrounds/274410,
+274410,(Lake Alpine)  Silver Tip Campground,CA,FS,Stanislaus National Forest,38.481100,-120.017000,True,22,False,False,False,True,True,62,False,https://www.recreation.gov/camping/campgrounds/274410,
 274413,North Fruita Desert Campground,CO,BLM,18 Road - North Fruita Desert,39.334000,-108.704000,True,144,False,False,False,True,True,99,False,https://www.recreation.gov/camping/campgrounds/274413,
 274414,The Bank Campground,CO,BLM,Shelf Road Sites,38.627976,-105.225243,True,35,False,False,False,True,True,20,False,https://www.recreation.gov/camping/campgrounds/274414,
 274437,Sawtooth Canyon Campground,CA,BLM,,34.670107,-116.983935,False,0,False,False,False,False,False,,True,,
