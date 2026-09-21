@@ -333,7 +333,7 @@ facility_id,name,state,agency,rec_area,lat,lon,reservable,total_sites,electric,w
 10107666,Rock Crossing Campground,AZ,FS,Coconino National Forest Recreation,34.564333,-111.218750,True,35,False,False,False,True,True,35,False,https://www.recreation.gov/camping/campgrounds/10107666,
 10108066,Namekagon District,WI,NPS,Saint Croix National Scenic Riverway,45.905263,-91.815991,False,0,False,False,False,False,False,,False,,https://www.nps.gov/sacn/planyourvisit/namekagon-river.htm
 10108260,Middle St. Croix,WI,NPS,Saint Croix National Scenic Riverway,45.773341,-92.781074,False,0,False,False,False,False,False,,False,,https://www.nps.gov/sacn/planyourvisit/middlestcroix.htm
-10108391,Echo Bay Campground,NV,NPS,Lake Mead National Recreation Area,36.308137,-114.436898,True,37,False,False,False,True,True,,False,https://www.recreation.gov/camping/campgrounds/10108391,
+10108391,Echo Bay Campground,NV,NPS,Lake Mead National Recreation Area,36.308137,-114.436898,True,37,False,False,False,True,True,,False,https://www.recreation.gov/camping/campgrounds/10108391,https://www.recreation.gov/camping/poi/10108391
 10108841,Las Vegas Bay Campground,NV,NPS,Lake Mead National Recreation Area,36.127845,-114.872570,False,0,False,False,False,False,False,,False,,https://www.recreation.gov/camping/campgrounds/10082283
 10108848,Temple Bar Campground,AZ,NPS,Lake Mead National Recreation Area,36.030318,-114.324852,False,0,False,False,False,False,False,,False,,https://www.recreation.gov/camping/campgrounds/10085626
 10109484,Dump Station,NV,NPS,Great Basin National Park,39.006544,-114.215989,False,0,False,False,False,False,False,,False,,
@@ -3382,7 +3382,7 @@ facility_id,name,state,agency,rec_area,lat,lon,reservable,total_sites,electric,w
 233598,Riana,NM,USACE,Abiquiu Lake,36.233333,-106.433333,True,70,True,True,False,True,True,80,False,https://www.recreation.gov/camping/campgrounds/233598,
 233599,Richey Cove,KS,USACE,Council Grove Lake,38.701194,-96.497556,True,39,True,True,True,True,True,95,False,https://www.recreation.gov/camping/campgrounds/233599,
 233600,Riley Creek,ID,USACE,Lake Pend Oreille,48.161111,-116.770278,True,69,True,True,False,True,True,45,False,https://www.recreation.gov/camping/campgrounds/233600,
-233601,Riverside,KS,USACE,Kanopolis Lake,38.610264,-97.956994,True,29,True,True,False,True,True,80,False,https://www.recreation.gov/camping/campgrounds/233601,
+233601,Riverside,KS,USACE,Kanopolis Lake,38.610264,-97.956994,True,31,True,True,False,True,True,80,False,https://www.recreation.gov/camping/campgrounds/233601,
 233602,Riverside East,KS,USACE,John Redmond Reservoir,38.233333,-95.750000,True,55,True,True,False,True,True,75,False,https://www.recreation.gov/camping/campgrounds/233602,
 233603,Riverside West,KS,USACE,John Redmond Reservoir,38.229167,-95.766667,True,33,True,True,False,True,True,60,False,https://www.recreation.gov/camping/campgrounds/233603,
 233604,Robert W Craig,WV,USACE,Jennings Randolph Lake,39.416767,-79.116111,True,69,True,False,False,True,False,,False,https://www.recreation.gov/camping/campgrounds/233604,
@@ -3775,7 +3775,7 @@ facility_id,name,state,agency,rec_area,lat,lon,reservable,total_sites,electric,w
 234019,Little Naches Campground,WA,FS,Okanogan-Wenatchee National Forest,46.990278,-121.097778,True,16,False,False,False,True,True,48,False,https://www.recreation.gov/camping/campgrounds/234019,
 234020,Cougar Flat,WA,FS,Okanogan-Wenatchee National Forest,46.916944,-121.233611,True,12,False,False,False,False,True,40,False,https://www.recreation.gov/camping/campgrounds/234020,
 234021,Pleasant Valley Campground,WA,FS,Okanogan-Wenatchee National Forest,46.942778,-121.325556,True,17,False,False,False,True,True,40,False,https://www.recreation.gov/camping/campgrounds/234021,
-234022,Sawmill Flat Campground,WA,FS,Okanogan-Wenatchee National Forest,46.974444,-121.095278,True,24,False,False,False,True,True,60,False,https://www.recreation.gov/camping/campgrounds/234022,
+234022,Sawmill Flat Campground,WA,FS,Okanogan-Wenatchee National Forest,46.974444,-121.095278,True,24,False,False,False,True,True,41,False,https://www.recreation.gov/camping/campgrounds/234022,
 234023,Cedar Springs Campground,WA,FS,Okanogan-Wenatchee National Forest,46.973333,-121.163056,True,15,False,False,False,True,True,40,False,https://www.recreation.gov/camping/campgrounds/234023,
 234024,Soda Springs Campground,WA,FS,Okanogan-Wenatchee National Forest,46.925694,-121.214167,True,23,False,False,False,True,True,100,False,https://www.recreation.gov/camping/campgrounds/234024,
 234025,Willows Campground,WA,FS,Okanogan-Wenatchee National Forest,46.672500,-121.039167,True,16,False,False,False,True,True,40,False,https://www.recreation.gov/camping/campgrounds/234025,
@@ -4295,7 +4295,7 @@ facility_id,name,state,agency,rec_area,lat,lon,reservable,total_sites,electric,w
 234559,Twin Bridges Group Shelter,TX,USACE,Waco Lake,31.535253,-97.246817,True,1,False,True,False,True,False,,False,https://www.recreation.gov/camping/campgrounds/234559,
 234560,Airport Beach Shelter,TX,USACE,Waco Lake,31.606806,-97.233667,True,1,False,True,False,True,False,,False,https://www.recreation.gov/camping/campgrounds/234560,
 234562,Below Dam South Carolina,GA,USACE,J. Strom Thurmond Lake,33.658333,-82.209167,True,7,True,True,False,True,False,,False,https://www.recreation.gov/camping/campgrounds/234562,
-234563,Ponderosa,AZ,FS,Tonto National Forest,34.298889,-111.114167,True,52,False,False,False,True,True,45,False,https://www.recreation.gov/camping/campgrounds/234563,
+234563,Ponderosa,AZ,FS,Tonto National Forest,34.298889,-111.114167,True,52,False,False,False,True,True,130,False,https://www.recreation.gov/camping/campgrounds/234563,
 234564,Whitetail Campground,AZ,FS,Coronado National Forest,32.411944,-110.731944,True,5,True,False,False,True,True,26,False,https://www.recreation.gov/camping/campgrounds/234564,
 234565,Rillway Cabin,MT,FS,Helena-Lewis and Clark National Forest,46.333519,-111.240678,True,1,False,False,False,False,False,,False,https://www.recreation.gov/camping/campgrounds/234565,
 234566,Thompson Guard Station,MT,FS,Helena-Lewis and Clark National Forest,46.504167,-111.208333,True,1,False,False,False,False,False,,False,https://www.recreation.gov/camping/campgrounds/234566,
@@ -4947,7 +4947,7 @@ facility_id,name,state,agency,rec_area,lat,lon,reservable,total_sites,electric,w
 249254,Burnt Corral Campground,AZ,FS,Tonto National Forest,33.627381,-111.203326,True,79,False,False,False,True,True,32,False,https://www.recreation.gov/camping/campgrounds/249254,
 249291,Schoolhouse Campground,AZ,FS,Tonto National Forest,33.650217,-111.012160,True,40,False,False,False,True,True,50,False,https://www.recreation.gov/camping/campgrounds/249291,
 249308,Windy Hill Campground,AZ,FS,Tonto National Forest,33.666696,-111.087959,True,137,False,False,False,True,True,45,False,https://www.recreation.gov/camping/campgrounds/249308,
-249312,Cholla Campground,AZ,FS,Tonto National Forest,33.731510,-111.203798,True,167,False,False,False,True,True,32,False,https://www.recreation.gov/camping/campgrounds/249312,
+249312,Cholla Campground,AZ,FS,Tonto National Forest,33.731510,-111.203798,True,167,False,False,False,True,True,55,False,https://www.recreation.gov/camping/campgrounds/249312,
 249351,Bristol Head Campground,CO,FS,Rio Grande National Forest,37.818938,-107.145900,False,0,False,False,False,False,False,,False,,
 249536,Tamarack Point Campground,MN,FS,Chippewa National Forest,47.444000,-94.121000,False,0,False,False,False,False,False,,False,,
 249579,Stockfarm Bridge,WI,FS,Chequamegon-Nicolet NF,46.037944,-90.714333,True,8,False,False,False,True,True,,False,https://www.recreation.gov/camping/campgrounds/249579,
