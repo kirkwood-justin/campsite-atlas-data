@@ -333,7 +333,7 @@ facility_id,name,state,agency,rec_area,lat,lon,reservable,total_sites,electric,w
 10107666,Rock Crossing Campground,AZ,FS,Coconino National Forest Recreation,34.564333,-111.218750,True,35,False,False,False,True,True,35,False,https://www.recreation.gov/camping/campgrounds/10107666,
 10108066,Namekagon District,WI,NPS,Saint Croix National Scenic Riverway,45.905263,-91.815991,False,0,False,False,False,False,False,,False,,https://www.nps.gov/sacn/planyourvisit/namekagon-river.htm
 10108260,Middle St. Croix,WI,NPS,Saint Croix National Scenic Riverway,45.773341,-92.781074,False,0,False,False,False,False,False,,False,,https://www.nps.gov/sacn/planyourvisit/middlestcroix.htm
-10108391,Echo Bay Campground,NV,NPS,Lake Mead National Recreation Area,36.308137,-114.436898,True,37,False,False,False,True,True,,False,https://www.recreation.gov/camping/campgrounds/10108391,https://www.recreation.gov/camping/poi/10108391
+10108391,Echo Bay Campground,NV,NPS,Lake Mead National Recreation Area,36.308137,-114.436898,True,37,False,False,False,True,True,,False,https://www.recreation.gov/camping/campgrounds/10108391,
 10108841,Las Vegas Bay Campground,NV,NPS,Lake Mead National Recreation Area,36.127845,-114.872570,False,0,False,False,False,False,False,,False,,https://www.recreation.gov/camping/campgrounds/10082283
 10108848,Temple Bar Campground,AZ,NPS,Lake Mead National Recreation Area,36.030318,-114.324852,False,0,False,False,False,False,False,,False,,https://www.recreation.gov/camping/campgrounds/10085626
 10109484,Dump Station,NV,NPS,Great Basin National Park,39.006544,-114.215989,False,0,False,False,False,False,False,,False,,
