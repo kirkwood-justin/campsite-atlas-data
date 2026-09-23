@@ -243,7 +243,7 @@ facility_id,name,state,agency,rec_area,lat,lon,reservable,total_sites,electric,w
 10067336,Crooked Creek Lake Pavilions,PA,USACE,Crooked Creek Lake,40.710518,-79.513596,True,6,False,False,False,False,False,,False,https://www.recreation.gov/camping/campgrounds/10067336,
 10067346,Haypress Campground,CA,NPS,Golden Gate National Recreation Area,37.860800,-122.545800,True,6,False,False,False,False,False,,False,https://www.recreation.gov/camping/campgrounds/10067346,https://www.recreation.gov/camping/campgrounds/10067346
 10068459,Callville Bay Campground,NV,NPS,Lake Mead National Recreation Area,36.139439,-114.727090,True,52,False,False,False,True,True,,False,https://www.recreation.gov/camping/campgrounds/10068459,https://www.recreation.gov/camping/campgrounds/10068459
-10068557,Hosmer Grove Campground,HI,NPS,Haleakalā National Park,20.706930,-156.159177,True,6,False,False,False,False,False,,False,https://www.recreation.gov/camping/campgrounds/10068557,https://www.nps.gov/hale/planyourvisit/drive-up-camping.htm
+10068557,Hosmer Grove Campground,HI,NPS,Haleakalā National Park,20.706930,-156.159177,True,6,False,False,False,False,False,,False,https://www.recreation.gov/camping/campgrounds/10068557,
 10068563,Kipahulu Campground,HI,NPS,Haleakalā National Park,20.706930,-156.159177,True,21,False,False,False,True,False,,False,https://www.recreation.gov/camping/campgrounds/10068563,
 10068584,Paraloma Park,AR,USACE,Millwood Lake,33.788993,-94.010749,True,30,True,True,False,True,True,,False,https://www.recreation.gov/camping/campgrounds/10068584,
 10070059,Morefield Campground,CO,NPS,Mesa Verde National Park,37.301499,-108.417912,False,267,False,False,False,False,False,,False,,https://www.nps.gov/meve/planyourvisit/camping.htm
@@ -2142,7 +2142,7 @@ facility_id,name,state,agency,rec_area,lat,lon,reservable,total_sites,electric,w
 232286,Pineknot,CA,FS,San Bernardino National Forest,34.235875,-116.886078,True,47,False,False,False,True,True,26,False,https://www.recreation.gov/camping/campgrounds/232286,
 232287,Big Lake,OR,FS,Willamette National Forest,44.377500,-121.870833,True,56,False,False,False,True,True,78,False,https://www.recreation.gov/camping/campgrounds/232287,
 232288,Cold Water Cove,OR,FS,Willamette National Forest,44.363889,-121.988889,True,41,False,False,False,True,True,99,False,https://www.recreation.gov/camping/campgrounds/232288,
-232289,Little Elden Springs Horsecamp,AZ,FS,Coconino National Forest Recreation,35.273333,-111.586667,True,15,False,False,False,True,True,40,False,https://www.recreation.gov/camping/campgrounds/232289,
+232289,Little Elden Springs Horsecamp,AZ,FS,Coconino National Forest Recreation,35.281149,-111.576211,True,15,False,False,False,True,True,40,False,https://www.recreation.gov/camping/campgrounds/232289,
 232290,Gurnsey Creek,CA,FS,Lassen National Forest,40.308889,-121.426667,True,54,False,False,False,False,False,99,False,https://www.recreation.gov/camping/campgrounds/232290,
 232291,Third Fork Cabin,ID,FS,Boise National Forest,44.373056,-116.300833,True,1,False,False,False,False,False,,False,https://www.recreation.gov/camping/campgrounds/232291,
 232292,Boiling Springs Cabin,ID,FS,Boise National Forest,44.364167,-115.856667,True,1,False,False,False,True,False,,False,https://www.recreation.gov/camping/campgrounds/232292,
@@ -5380,7 +5380,7 @@ facility_id,name,state,agency,rec_area,lat,lon,reservable,total_sites,electric,w
 258567,Town Creek Hiker-Biker Overnight (Hbo) Campsite,WV,NPS,Chesapeake & Ohio Canal National Historical Park,39.524461,-78.538643,False,0,False,False,False,False,False,,True,,
 258595,City Of Rocks Campground,ID,NPS,City Of Rocks National Reserve,42.067203,-113.701382,False,0,False,False,False,False,False,,False,,https://www.nps.gov/ciro/planyourvisit/camping.htm
 258613,Lost Creek Campground,OR,NPS,Crater Lake National Park,42.879749,-122.038711,False,0,False,False,False,False,False,,False,,https://www.nps.gov/crla/planyourvisit/lost_creek.htm
-258617,Wilderness Road Campground,VA,NPS,Cumberland Gap National Historical Park,36.604460,-83.632539,True,154,True,False,False,True,True,50,False,https://www.recreation.gov/camping/campgrounds/258617,https://www.nps.gov/cuga/planyourvisit/campgrounds.htm
+258617,Wilderness Road Campground,VA,NPS,Cumberland Gap National Historical Park,36.604460,-83.632539,True,154,True,False,False,True,True,50,False,https://www.recreation.gov/camping/campgrounds/258617,
 258630,Sage Creek Campground,SD,NPS,Badlands National Park,43.893146,-102.414254,False,0,False,False,False,False,False,,True,,https://www.nps.gov/thingstodo/backcountry-camping-badl.htm
 258667,Crabtree Falls Campground,NC,NPS,Blue Ridge Parkway,35.565720,-82.486485,True,84,False,False,False,True,True,55,False,https://www.recreation.gov/camping/campgrounds/258667,https://www.nps.gov/blri/planyourvisit/crabtree-falls-cg.htm
 258696,Rush Campground,AR,NPS,Buffalo National River,36.122741,-92.550445,False,0,False,False,False,False,False,,False,,https://www.nps.gov/buff/planyourvisit/camping.htm
