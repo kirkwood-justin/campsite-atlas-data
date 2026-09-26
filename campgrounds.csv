@@ -16,7 +16,7 @@ facility_id,name,state,agency,rec_area,lat,lon,reservable,booking,total_sites,el
 10004919,Lake Powhatan Glamping,NC,FS,National Forests in North Carolina,35.481667,-82.630000,True,reservable,12,False,False,False,True,True,26,False,https://www.recreation.gov/camping/campgrounds/10004919,
 10004932,Gorge Lake Campground,WA,NPS,North Cascades National Park,48.715713,-121.151532,True,reservable,8,False,False,False,True,True,,False,https://www.recreation.gov/camping/campgrounds/10004932,https://www.recreation.gov/camping/campgrounds/10004932
 10004950,Halls Crossing RV & Campground,UT,NPS,Glen Canyon National Recreation Area,37.457799,-110.718201,False,first-come,0,False,False,False,False,False,,False,,https://www.lakepowell.com/rv-camping/halls-crossing-rv-campground/
-10005253,West Shore,CA,FS,Stanislaus National Forest,38.477333,-120.008045,True,reservable,25,False,False,False,True,True,52,False,https://www.recreation.gov/camping/campgrounds/10005253,
+10005253,West Shore,CA,FS,Stanislaus National Forest,38.477333,-120.008045,True,reservable,25,False,False,False,True,True,55,False,https://www.recreation.gov/camping/campgrounds/10005253,
 10005349,Log Gulch Campground,MT,BLM,Chain of Lakes,46.961834,-111.943610,True,reservable,75,False,False,False,True,True,,False,https://www.recreation.gov/camping/campgrounds/10005349,
 10005351,Blue Lake Campground Group Site,CA,FS,Modoc National Forest,41.142778,-120.280000,True,partly,1,False,False,False,True,True,,False,https://www.recreation.gov/camping/campgrounds/10005351,
 10005523,Jackman Park Campground,OR,BLM,,42.719085,-118.624208,False,first-come,6,False,False,False,False,False,,False,,
@@ -231,7 +231,7 @@ facility_id,name,state,agency,rec_area,lat,lon,reservable,booking,total_sites,el
 10107666,Rock Crossing Campground,AZ,FS,Coconino National Forest Recreation,34.564333,-111.218750,True,partly,35,False,False,False,True,True,35,False,https://www.recreation.gov/camping/campgrounds/10107666,
 10108066,Namekagon District,WI,NPS,Saint Croix National Scenic Riverway,45.905263,-91.815991,False,first-come,0,False,False,False,False,False,,False,,https://www.nps.gov/sacn/planyourvisit/namekagon-river.htm
 10108260,Middle St. Croix,WI,NPS,Saint Croix National Scenic Riverway,45.773341,-92.781074,False,first-come,0,False,False,False,False,False,,False,,https://www.nps.gov/sacn/planyourvisit/middlestcroix.htm
-10108391,Echo Bay Campground,NV,NPS,Lake Mead National Recreation Area,36.308137,-114.436898,True,reservable,37,False,False,False,True,True,,False,https://www.recreation.gov/camping/campgrounds/10108391,https://www.recreation.gov/camping/poi/10108391
+10108391,Echo Bay Campground,NV,NPS,Lake Mead National Recreation Area,36.308137,-114.436898,True,reservable,37,False,False,False,True,True,,False,https://www.recreation.gov/camping/campgrounds/10108391,
 10109484,Dump Station,NV,NPS,Great Basin National Park,39.006544,-114.215989,False,first-come,0,False,False,False,False,False,,False,,
 10110663,Quartz Flat Campground,MT,FS,Lolo National Forest,47.077130,-114.769330,True,partly,79,False,True,False,True,True,,False,https://www.recreation.gov/camping/campgrounds/10110663,
 10110742,Sundew Campground,CA,FS,Plumas National Forest,39.900800,-121.202100,True,reservable,22,False,False,False,True,False,,False,https://www.recreation.gov/camping/campgrounds/10110742,
@@ -541,7 +541,7 @@ facility_id,name,state,agency,rec_area,lat,lon,reservable,booking,total_sites,el
 10171270,Pulver Mountain Group Site,CO,FS,Pike and San Isabel National Forests & Cimarron and Comanche National Grasslands,39.026272,-105.471560,True,reservable,1,False,False,False,True,True,,False,https://www.recreation.gov/camping/campgrounds/10171270,
 10171272,Quigley Group Use,MT,FS,Helena-Lewis and Clark National Forest,46.560908,-112.305736,True,reservable,1,False,False,False,True,True,,False,https://www.recreation.gov/camping/campgrounds/10171272,
 10171274,Apgar Campground,MT,NPS,Glacier National Park,48.525002,-113.983597,True,reservable,211,False,False,False,True,True,42,False,https://www.recreation.gov/camping/campgrounds/10171274,
-10172129,Bulger's Hollow Recreation Area,IA,USACE,Mississippi River - Pools 11-22,41.935130,-90.184220,True,reservable,24,False,False,False,False,False,,False,https://www.recreation.gov/camping/campgrounds/10172129,
+10172129,Bulger's Hollow Recreation Area,IA,USACE,Mississippi River - Pools 11-22,41.935130,-90.184220,True,reservable,24,False,False,False,True,False,,False,https://www.recreation.gov/camping/campgrounds/10172129,
 10172170,Rob Hill Group Campground,CA,Presidio,Presidio of San Francisco,37.797537,-122.475623,True,reservable,4,False,False,False,False,True,,False,https://www.recreation.gov/camping/campgrounds/10172170,
 10172175,Cascade Campground,MT,FS,Lolo National Forest,47.305370,-114.824500,False,first-come,2,False,False,False,True,True,30,False,,
 10174772,Perch Lake Campground,MI,FS,Ottawa National Forest,46.364066,-88.673526,True,reservable,20,False,False,False,True,True,,False,https://www.recreation.gov/camping/campgrounds/10174772,
@@ -1852,7 +1852,7 @@ facility_id,name,state,agency,rec_area,lat,lon,reservable,booking,total_sites,el
 232340,Colorado Campground,CO,FS,Pike and San Isabel National Forests & Cimarron and Comanche National Grasslands,39.079722,-105.093333,True,reservable,81,False,False,False,True,False,100,False,https://www.recreation.gov/camping/campgrounds/232340,
 232341,Painted Rocks,CO,FS,Pike and San Isabel National Forests & Cimarron and Comanche National Grasslands,39.084444,-105.105278,True,reservable,18,False,False,False,True,True,59,False,https://www.recreation.gov/camping/campgrounds/232341,
 232342,Holiday Group Campground,CA,FS,Los Padres National Forest,34.517222,-119.276944,True,reservable,1,False,False,False,False,False,20,False,https://www.recreation.gov/camping/campgrounds/232342,
-232343,Lodgepole Campground,CA,FS,Stanislaus National Forest,38.477308,-120.024175,True,reservable,20,False,False,False,True,False,46,False,https://www.recreation.gov/camping/campgrounds/232343,
+232343,Lodgepole Campground,CA,FS,Stanislaus National Forest,38.477308,-120.024175,True,reservable,20,False,False,False,True,True,50,False,https://www.recreation.gov/camping/campgrounds/232343,
 232344,Swinging Bridge,ID,FS,Boise National Forest,44.171558,-116.120961,True,partly,7,False,False,False,False,False,40,False,https://www.recreation.gov/camping/campgrounds/232344,
 232345,Camp Hale East Fork Group,CO,FS,White River National Forest,39.419444,-106.286667,True,reservable,1,False,False,False,True,False,45,False,https://www.recreation.gov/camping/campgrounds/232345,
 232346,Prune Creek,WY,FS,Bighorn National Forest,44.768889,-107.468611,True,reservable,21,False,False,False,True,True,55,False,https://www.recreation.gov/camping/campgrounds/232346,
@@ -2388,7 +2388,7 @@ facility_id,name,state,agency,rec_area,lat,lon,reservable,booking,total_sites,el
 233117,Cerro Alto Campground,CA,FS,Los Padres National Forest,35.427500,-120.738333,True,reservable,22,False,False,False,True,False,35,False,https://www.recreation.gov/camping/campgrounds/233117,
 233118,Ponderosa Campground,CA,FS,Los Padres National Forest,36.005000,-121.376389,True,partly,23,False,False,False,True,False,40,False,https://www.recreation.gov/camping/campgrounds/233118,
 233119,Tyler Bend Campground,AR,NPS,Buffalo National River,35.986667,-92.763889,True,reservable,44,False,False,False,True,True,,False,https://www.recreation.gov/camping/campgrounds/233119,https://www.nps.gov/buff/planyourvisit/tyler-bend-campground.htm
-233120,Ozark Campground,AR,NPS,Buffalo National River,36.062131,-93.159722,True,reservable,32,False,False,False,True,True,,False,https://www.recreation.gov/camping/campgrounds/233120,https://www.nps.gov/buff/planyourvisit/camping.htm
+233120,Ozark Campground,AR,NPS,Buffalo National River,36.062131,-93.159722,True,reservable,32,False,False,False,True,True,25,False,https://www.recreation.gov/camping/campgrounds/233120,https://www.nps.gov/buff/planyourvisit/camping.htm
 233122,Buck Lake Group Campground,FL,FS,National Forests in Florida,29.098056,-81.650556,True,reservable,1,False,False,False,True,False,40,False,https://www.recreation.gov/camping/campgrounds/233122,
 233123,Maroon Bells Amphitheatre,CO,FS,White River National Forest,39.091667,-106.941667,True,reservable,1,False,False,False,False,False,,False,https://www.recreation.gov/camping/campgrounds/233123,
 233125,Speegleville Park,TX,USACE,Waco Lake,31.552994,-97.242075,True,reservable,32,True,True,False,True,True,,False,https://www.recreation.gov/camping/campgrounds/233125,
