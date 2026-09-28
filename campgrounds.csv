@@ -178,7 +178,7 @@ facility_id,name,state,agency,rec_area,lat,lon,reservable,booking,total_sites,el
 10067302,Oakland Park,AR,USACE,Bull Shoals Lake,36.443291,-92.627942,True,reservable,33,True,True,False,True,True,45,False,https://www.recreation.gov/camping/campgrounds/10067302,
 10067346,Haypress Campground,CA,NPS,Golden Gate National Recreation Area,37.860800,-122.545800,True,reservable,6,False,False,False,False,False,,False,https://www.recreation.gov/camping/campgrounds/10067346,https://www.recreation.gov/camping/campgrounds/10067346
 10068459,Callville Bay Campground,NV,NPS,Lake Mead National Recreation Area,36.139439,-114.727090,True,reservable,52,False,False,False,True,True,,False,https://www.recreation.gov/camping/campgrounds/10068459,https://www.recreation.gov/camping/campgrounds/10068459
-10068557,Hosmer Grove Campground,HI,NPS,Haleakalā National Park,20.706930,-156.159177,True,reservable,6,False,False,False,False,False,,False,https://www.recreation.gov/camping/campgrounds/10068557,https://www.nps.gov/hale/planyourvisit/drive-up-camping.htm
+10068557,Hosmer Grove Campground,HI,NPS,Haleakalā National Park,20.706930,-156.159177,True,reservable,6,False,False,False,False,False,,False,https://www.recreation.gov/camping/campgrounds/10068557,
 10068563,Kipahulu Campground,HI,NPS,Haleakalā National Park,20.706930,-156.159177,True,reservable,21,False,False,False,True,False,,False,https://www.recreation.gov/camping/campgrounds/10068563,
 10068584,Paraloma Park,AR,USACE,Millwood Lake,33.788993,-94.010749,True,reservable,30,True,True,False,True,True,,False,https://www.recreation.gov/camping/campgrounds/10068584,
 10070059,Morefield Campground,CO,NPS,Mesa Verde National Park,37.301499,-108.417912,False,first-come,267,False,False,False,False,False,,False,,https://www.nps.gov/meve/planyourvisit/camping.htm
@@ -1603,7 +1603,7 @@ facility_id,name,state,agency,rec_area,lat,lon,reservable,booking,total_sites,el
 232074,Money Creek Campground,WA,FS,Mt. Baker-Snoqualmie National Forest,47.729089,-121.408165,True,reservable,24,False,False,False,True,True,40,False,https://www.recreation.gov/camping/campgrounds/232074,
 232077,Onion Valley,CA,FS,Inyo National Forest,36.774722,-118.345556,True,reservable,30,False,False,False,True,True,25,False,https://www.recreation.gov/camping/campgrounds/232077,
 232078,Pactola Reservoir Campground,SD,FS,Black Hills National Forest,44.075278,-103.533056,True,reservable,79,False,False,False,True,True,99,False,https://www.recreation.gov/camping/campgrounds/232078,
-232079,Paha,CA,FS,Humboldt-Toiyabe National Forest Headquarters,38.179167,-119.325000,True,reservable,22,False,False,False,False,False,45,False,https://www.recreation.gov/camping/campgrounds/232079,
+232079,Paha,CA,FS,Humboldt-Toiyabe National Forest Headquarters,38.179167,-119.325000,True,reservable,22,False,False,False,True,True,45,False,https://www.recreation.gov/camping/campgrounds/232079,
 232080,Panguitch Lake,UT,FS,Dixie National Forest,37.702500,-112.656111,True,partly,53,False,False,False,False,True,99,False,https://www.recreation.gov/camping/campgrounds/232080,
 232081,Panorama Point Campground,WA,FS,Mt. Baker-Snoqualmie National Forest,48.724189,-121.672679,True,reservable,22,False,False,False,True,True,52,False,https://www.recreation.gov/camping/campgrounds/232081,
 232082,Park Creek Campground,WA,FS,Mt. Baker-Snoqualmie National Forest,48.735756,-121.667532,True,reservable,16,False,False,False,True,True,58,False,https://www.recreation.gov/camping/campgrounds/232082,
@@ -4102,7 +4102,7 @@ facility_id,name,state,agency,rec_area,lat,lon,reservable,booking,total_sites,el
 258567,Town Creek Hiker-Biker Overnight (Hbo) Campsite,WV,NPS,Chesapeake & Ohio Canal National Historical Park,39.524461,-78.538643,False,first-come,0,False,False,False,False,False,,True,,
 258595,City Of Rocks Campground,ID,NPS,City Of Rocks National Reserve,42.067203,-113.701382,False,first-come,0,False,False,False,False,False,,False,,https://www.nps.gov/ciro/planyourvisit/camping.htm
 258613,Lost Creek Campground,OR,NPS,Crater Lake National Park,42.879749,-122.038711,False,first-come,0,False,False,False,False,False,,False,,https://www.nps.gov/crla/planyourvisit/lost_creek.htm
-258617,Wilderness Road Campground,VA,NPS,Cumberland Gap National Historical Park,36.604460,-83.632539,True,reservable,154,True,False,False,True,True,50,False,https://www.recreation.gov/camping/campgrounds/258617,https://www.nps.gov/cuga/planyourvisit/campgrounds.htm
+258617,Wilderness Road Campground,VA,NPS,Cumberland Gap National Historical Park,36.604460,-83.632539,True,reservable,154,True,False,False,True,True,50,False,https://www.recreation.gov/camping/campgrounds/258617,
 258630,Sage Creek Campground,SD,NPS,Badlands National Park,43.893146,-102.414254,False,first-come,0,False,False,False,False,False,,True,,https://www.nps.gov/thingstodo/backcountry-camping-badl.htm
 258667,Crabtree Falls Campground,NC,NPS,Blue Ridge Parkway,35.565720,-82.486485,True,partly,84,False,False,False,True,True,55,False,https://www.recreation.gov/camping/campgrounds/258667,https://www.nps.gov/blri/planyourvisit/crabtree-falls-cg.htm
 258697,Spring Creek Campground,AR,NPS,Buffalo National River,36.029971,-92.584461,False,first-come,0,False,False,False,False,False,,False,,https://www.nps.gov/buff/planyourvisit/camping.htm
