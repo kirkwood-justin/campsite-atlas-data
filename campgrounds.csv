@@ -178,7 +178,7 @@ facility_id,name,state,agency,rec_area,lat,lon,reservable,booking,total_sites,el
 10067302,Oakland Park,AR,USACE,Bull Shoals Lake,36.443291,-92.627942,True,reservable,33,True,True,False,True,True,45,False,https://www.recreation.gov/camping/campgrounds/10067302,
 10067346,Haypress Campground,CA,NPS,Golden Gate National Recreation Area,37.860800,-122.545800,True,reservable,6,False,False,False,False,False,,False,https://www.recreation.gov/camping/campgrounds/10067346,https://www.recreation.gov/camping/campgrounds/10067346
 10068459,Callville Bay Campground,NV,NPS,Lake Mead National Recreation Area,36.139439,-114.727090,True,reservable,52,False,False,False,True,True,,False,https://www.recreation.gov/camping/campgrounds/10068459,https://www.recreation.gov/camping/campgrounds/10068459
-10068557,Hosmer Grove Campground,HI,NPS,Haleakalā National Park,20.706930,-156.159177,True,reservable,6,False,False,False,False,False,,False,https://www.recreation.gov/camping/campgrounds/10068557,
+10068557,Hosmer Grove Campground,HI,NPS,Haleakalā National Park,20.706930,-156.159177,True,reservable,6,False,False,False,False,False,,False,https://www.recreation.gov/camping/campgrounds/10068557,https://www.nps.gov/hale/planyourvisit/drive-up-camping.htm
 10068563,Kipahulu Campground,HI,NPS,Haleakalā National Park,20.706930,-156.159177,True,reservable,21,False,False,False,True,False,,False,https://www.recreation.gov/camping/campgrounds/10068563,
 10068584,Paraloma Park,AR,USACE,Millwood Lake,33.788993,-94.010749,True,reservable,30,True,True,False,True,True,,False,https://www.recreation.gov/camping/campgrounds/10068584,
 10070059,Morefield Campground,CO,NPS,Mesa Verde National Park,37.301499,-108.417912,False,first-come,267,False,False,False,False,False,,False,,https://www.nps.gov/meve/planyourvisit/camping.htm
@@ -231,7 +231,7 @@ facility_id,name,state,agency,rec_area,lat,lon,reservable,booking,total_sites,el
 10107666,Rock Crossing Campground,AZ,FS,Coconino National Forest Recreation,34.564333,-111.218750,True,partly,35,False,False,False,True,True,35,False,https://www.recreation.gov/camping/campgrounds/10107666,
 10108066,Namekagon District,WI,NPS,Saint Croix National Scenic Riverway,45.905263,-91.815991,False,first-come,0,False,False,False,False,False,,False,,https://www.nps.gov/sacn/planyourvisit/namekagon-river.htm
 10108260,Middle St. Croix,WI,NPS,Saint Croix National Scenic Riverway,45.773341,-92.781074,False,first-come,0,False,False,False,False,False,,False,,https://www.nps.gov/sacn/planyourvisit/middlestcroix.htm
-10108391,Echo Bay Campground,NV,NPS,Lake Mead National Recreation Area,36.308137,-114.436898,True,reservable,37,False,False,False,True,True,,False,https://www.recreation.gov/camping/campgrounds/10108391,
+10108391,Echo Bay Campground,NV,NPS,Lake Mead National Recreation Area,36.308137,-114.436898,True,reservable,37,False,False,False,True,True,,False,https://www.recreation.gov/camping/campgrounds/10108391,https://www.recreation.gov/camping/poi/10108391
 10109484,Dump Station,NV,NPS,Great Basin National Park,39.006544,-114.215989,False,first-come,0,False,False,False,False,False,,False,,
 10110663,Quartz Flat Campground,MT,FS,Lolo National Forest,47.077130,-114.769330,True,partly,79,False,True,False,True,True,,False,https://www.recreation.gov/camping/campgrounds/10110663,
 10110742,Sundew Campground,CA,FS,Plumas National Forest,39.900800,-121.202100,True,reservable,22,False,False,False,True,False,,False,https://www.recreation.gov/camping/campgrounds/10110742,
@@ -1245,6 +1245,7 @@ facility_id,name,state,agency,rec_area,lat,lon,reservable,booking,total_sites,el
 10405347,Rock Creek,CO,FS,Rio Grande National Forest,37.469,-106.3323,True,reservable,11,False,False,False,False,False,,False,https://www.recreation.gov/camping/campgrounds/10405347,
 10405359,Sherman Overlook,WA,FS,Colville National Forest,48.605,-118.4628,True,reservable,9,False,False,False,False,False,,False,https://www.recreation.gov/camping/campgrounds/10405359,
 10406480,Stevens Pass Mountain Resort RV Lot,WA,FS,Mt. Baker-Snoqualmie National Forest,48.200422,-121.168213,True,reservable,60,True,False,False,True,True,40,False,https://www.recreation.gov/camping/campgrounds/10406480,
+10408724,Wilborn Creek Primitive Camping,IL,USACE,Lake Shelbyville,39.416498,-88.779661,True,reservable,7,False,False,False,True,True,,False,https://www.recreation.gov/camping/campgrounds/10408724,
 118440,Aspen Grove Campground,CA,FS,Lassen National Forest,40.555019,-120.774414,True,partly,28,False,False,False,True,True,50,False,https://www.recreation.gov/camping/campgrounds/118440,
 118994,Gentry Group Campground,AZ,FS,Apache-Sitgreaves National Forest,34.301083,-110.313222,True,reservable,1,False,False,False,False,True,,False,https://www.recreation.gov/camping/campgrounds/118994,
 119040,Boley Field Group Campground,VA,FS,George Washington & Jefferson National Forest,37.249030,-80.527900,True,reservable,1,False,False,False,True,True,,False,https://www.recreation.gov/camping/campgrounds/119040,
@@ -1272,7 +1273,7 @@ facility_id,name,state,agency,rec_area,lat,lon,reservable,booking,total_sites,el
 123440,Limestone Campground,CA,FS,Sequoia National Forest,35.962831,-118.477293,True,reservable,19,False,False,False,True,True,40,False,https://www.recreation.gov/camping/campgrounds/123440,
 126690,Frazier Horse Campground,AZ,FS,Tonto National Forest,33.666764,-111.129861,True,reservable,8,False,False,False,False,False,40,False,https://www.recreation.gov/camping/campgrounds/126690,
 14493,King's Bottom Campground,UT,BLM,,38.556491,-109.585018,False,first-come,0,False,False,False,False,False,,False,,
-14507,The Ledge Campground,UT,BLM,,38.480648,-109.602914,True,partly,0,False,False,False,False,False,,False,https://www.recreation.gov/camping/campgrounds/14507,
+14507,The Ledge Campground,UT,BLM,,38.480648,-109.602914,True,partly,0,False,False,False,False,False,,False,,
 14534,Eagle Campground,AK,BLM,,64.791930,-141.235870,False,first-come,0,False,False,False,False,False,,False,,
 14536,Five Mile Campground,AK,BLM,,65.918472,-149.828019,False,first-come,0,False,False,False,False,False,,True,,
 14545,Tangle Lakes Campground,AK,BLM,Delta Wild and Scenic River,63.051840,-146.007355,False,first-come,0,False,False,False,False,False,,False,,
@@ -1343,8 +1344,8 @@ facility_id,name,state,agency,rec_area,lat,lon,reservable,booking,total_sites,el
 202130,Upper Big Bend Campground,UT,BLM,,38.649330,-109.488190,False,first-come,0,False,False,False,False,False,,False,,
 202133,San Rafael Swinging Bridge Campground,UT,BLM,,39.078900,-110.664700,True,reservable,24,False,False,False,True,True,,False,https://www.recreation.gov/camping/campgrounds/202133,
 202136,Starr Springs Campground,UT,BLM,,37.505800,-110.394200,False,first-come,0,False,False,False,False,False,,False,,
-202146,Dewey Bridge Campground,UT,BLM,,38.484300,-109.180800,True,partly,0,False,False,False,False,False,,False,https://www.recreation.gov/camping/campgrounds/202146,
-202151,Goose Island Campground,UT,BLM,,38.609670,-109.557820,True,partly,20,False,False,False,False,False,,False,https://www.recreation.gov/camping/campgrounds/202151,
+202146,Dewey Bridge Campground,UT,BLM,,38.484300,-109.180800,True,partly,0,False,False,False,False,False,,False,,
+202151,Goose Island Campground,UT,BLM,,38.609670,-109.557820,True,partly,20,False,False,False,False,False,,False,,
 202152,Hal Canyon Campground,UT,BLM,,38.641630,-109.476730,False,first-come,11,False,False,False,False,False,,False,,
 202155,Hunter Canyon Group Site,UT,BLM,,38.509950,-109.597150,True,reservable,1,False,False,False,True,True,15,False,https://www.recreation.gov/camping/campgrounds/202155,
 202156,Jaycee Park Campground,UT,BLM,,38.543130,-109.600640,False,first-come,0,False,False,False,False,False,,False,,
@@ -1774,7 +1775,7 @@ facility_id,name,state,agency,rec_area,lat,lon,reservable,booking,total_sites,el
 232257,Craigs Creek Group Area,KY,FS,Daniel Boone National Forest,36.991667,-84.258333,True,reservable,4,False,False,False,True,True,20,False,https://www.recreation.gov/camping/campgrounds/232257,
 232258,Grove,KY,FS,Daniel Boone National Forest,36.941667,-84.216667,True,reservable,99,True,True,False,True,False,50,False,https://www.recreation.gov/camping/campgrounds/232258,
 232259,Holly Bay,KY,FS,Daniel Boone National Forest,36.979167,-84.266667,True,partly,138,True,True,True,True,True,50,False,https://www.recreation.gov/camping/campgrounds/232259,
-232260,Big Meadow,CA,FS,Stanislaus National Forest,38.416389,-120.105000,True,reservable,137,False,False,False,True,True,56,False,https://www.recreation.gov/camping/campgrounds/232260,
+232260,Big Meadow,CA,FS,Stanislaus National Forest,38.416389,-120.105000,True,reservable,137,False,False,False,True,True,53,False,https://www.recreation.gov/camping/campgrounds/232260,
 232261,Hampshire Rocks,CA,FS,Tahoe National Forest,39.310768,-120.500006,True,reservable,33,False,False,False,True,True,45,False,https://www.recreation.gov/camping/campgrounds/232261,
 232262,Pipi Campground,CA,FS,Eldorado National Forest,38.573611,-120.437500,True,reservable,73,False,False,False,True,True,35,False,https://www.recreation.gov/camping/campgrounds/232262,
 232263,Silver Lake East- Eldorado,CA,FS,Eldorado National Forest,38.675000,-119.887500,True,reservable,66,False,False,False,True,True,55,False,https://www.recreation.gov/camping/campgrounds/232263,
@@ -2208,14 +2209,14 @@ facility_id,name,state,agency,rec_area,lat,lon,reservable,booking,total_sites,el
 232773,Parkside,MT,FS,Custer Gallatin National Forest,45.061944,-109.408889,True,reservable,28,False,False,False,True,True,50,False,https://www.recreation.gov/camping/campgrounds/232773,
 232774,Rattin Campground,MT,FS,Custer Gallatin National Forest,45.083056,-109.300000,True,reservable,7,False,False,False,True,True,30,False,https://www.recreation.gov/camping/campgrounds/232774,
 232775,Sheridan,MT,FS,Custer Gallatin National Forest,45.100132,-109.308907,True,reservable,9,False,False,False,True,True,33,False,https://www.recreation.gov/camping/campgrounds/232775,
-232777,Logger Flat Group,CA,FS,Sequoia National Forest,36.776003,-118.894600,True,reservable,1,False,False,False,False,True,30,False,https://www.recreation.gov/camping/campgrounds/232777,
+232777,Logger Flat Group,CA,FS,Sequoia National Forest,36.776003,-118.894600,True,reservable,1,False,False,False,False,True,35,False,https://www.recreation.gov/camping/campgrounds/232777,
 232778,Whitefish Horse Camp,OR,FS,Deschutes National Forest,43.465556,-122.031389,True,reservable,17,False,False,False,True,True,50,False,https://www.recreation.gov/camping/campgrounds/232778,
 232779,Simax Group Camp,OR,FS,Deschutes National Forest,43.494444,-121.961944,True,reservable,5,True,False,False,True,True,40,False,https://www.recreation.gov/camping/campgrounds/232779,
 232780,Aspen Hollow Group,CA,FS,Sequoia National Forest,36.781225,-118.903799,True,reservable,1,False,False,False,True,True,35,False,https://www.recreation.gov/camping/campgrounds/232780,
 232781,Hume Lake,CA,FS,Sequoia National Forest,36.795433,-118.907395,True,reservable,71,False,False,False,True,True,40,False,https://www.recreation.gov/camping/campgrounds/232781,
 232782,Princess,CA,FS,Sequoia National Forest,36.802784,-118.938083,True,reservable,89,False,False,False,True,True,50,False,https://www.recreation.gov/camping/campgrounds/232782,
 232783,Cove Group,CA,FS,Sequoia National Forest,36.665041,-118.838729,True,reservable,1,False,False,False,False,True,25,False,https://www.recreation.gov/camping/campgrounds/232783,
-232784,Fir Group,CA,FS,Sequoia National Forest,36.664285,-118.842719,True,reservable,1,False,False,False,False,False,30,False,https://www.recreation.gov/camping/campgrounds/232784,
+232784,Fir Group,CA,FS,Sequoia National Forest,36.664285,-118.842719,True,reservable,1,False,False,False,False,True,35,False,https://www.recreation.gov/camping/campgrounds/232784,
 232785,Stony Creek Sequoia,CA,FS,Sequoia National Forest,36.665245,-118.832783,True,reservable,48,False,False,False,True,True,30,False,https://www.recreation.gov/camping/campgrounds/232785,
 232786,French Gulch,CA,FS,Sequoia National Forest,35.657833,-118.480560,True,reservable,1,False,False,False,True,True,,False,https://www.recreation.gov/camping/campgrounds/232786,
 232787,Blue Bay,OR,FS,Deschutes National Forest,44.420000,-121.731944,True,reservable,25,False,False,False,True,True,50,False,https://www.recreation.gov/camping/campgrounds/232787,
@@ -2388,7 +2389,7 @@ facility_id,name,state,agency,rec_area,lat,lon,reservable,booking,total_sites,el
 233117,Cerro Alto Campground,CA,FS,Los Padres National Forest,35.427500,-120.738333,True,reservable,22,False,False,False,True,False,35,False,https://www.recreation.gov/camping/campgrounds/233117,
 233118,Ponderosa Campground,CA,FS,Los Padres National Forest,36.005000,-121.376389,True,partly,23,False,False,False,True,False,40,False,https://www.recreation.gov/camping/campgrounds/233118,
 233119,Tyler Bend Campground,AR,NPS,Buffalo National River,35.986667,-92.763889,True,reservable,44,False,False,False,True,True,,False,https://www.recreation.gov/camping/campgrounds/233119,https://www.nps.gov/buff/planyourvisit/tyler-bend-campground.htm
-233120,Ozark Campground,AR,NPS,Buffalo National River,36.062131,-93.159722,True,reservable,32,False,False,False,True,True,25,False,https://www.recreation.gov/camping/campgrounds/233120,https://www.nps.gov/buff/planyourvisit/camping.htm
+233120,Ozark Campground,AR,NPS,Buffalo National River,36.062131,-93.159722,True,reservable,32,False,False,False,True,True,,False,https://www.recreation.gov/camping/campgrounds/233120,https://www.nps.gov/buff/planyourvisit/camping.htm
 233122,Buck Lake Group Campground,FL,FS,National Forests in Florida,29.098056,-81.650556,True,reservable,1,False,False,False,True,False,40,False,https://www.recreation.gov/camping/campgrounds/233122,
 233123,Maroon Bells Amphitheatre,CO,FS,White River National Forest,39.091667,-106.941667,True,reservable,1,False,False,False,False,False,,False,https://www.recreation.gov/camping/campgrounds/233123,
 233125,Speegleville Park,TX,USACE,Waco Lake,31.552994,-97.242075,True,reservable,32,True,True,False,True,True,,False,https://www.recreation.gov/camping/campgrounds/233125,
@@ -3955,7 +3956,7 @@ facility_id,name,state,agency,rec_area,lat,lon,reservable,booking,total_sites,el
 251836,Windwhistle Group Site,UT,BLM,Canyon Rims,38.177511,-109.462200,True,reservable,1,False,False,False,True,True,20,False,https://www.recreation.gov/camping/campgrounds/251836,
 251837,Lone Mesa Group Sites,UT,BLM,Labyrinth Rims | Gemini Bridge,38.635814,-109.804939,True,reservable,5,False,False,False,True,True,50,False,https://www.recreation.gov/camping/campgrounds/251837,
 251838,Horsethief Group Sites,UT,BLM,Labyrinth Rims | Gemini Bridge,38.584311,-109.814239,True,reservable,5,False,False,False,True,True,22,False,https://www.recreation.gov/camping/campgrounds/251838,
-251839,The Ledge Group Sites,UT,BLM,,38.481081,-109.602189,True,reservable,3,False,False,False,True,True,22,False,https://www.recreation.gov/camping/campgrounds/251839,
+251839,The Ledge Group Sites,UT,BLM,Moonflower Canyon Recreation Area,38.481081,-109.602189,True,reservable,3,False,False,False,True,True,22,False,https://www.recreation.gov/camping/campgrounds/251839,
 251840,Ken's Lake Group Sites,UT,BLM,,38.476947,-109.422438,True,reservable,2,False,False,False,True,True,20,False,https://www.recreation.gov/camping/campgrounds/251840,
 251841,Goose Island Group Sites,UT,BLM,Moab Field Office (BLM),38.609669,-109.557819,True,reservable,2,False,False,False,True,True,30,False,https://www.recreation.gov/camping/campgrounds/251841,
 251842,Big Bend Group Sites,UT,BLM,Moab Field Office (BLM),38.648639,-109.479758,True,reservable,3,False,False,False,True,True,20,False,https://www.recreation.gov/camping/campgrounds/251842,
@@ -4102,7 +4103,7 @@ facility_id,name,state,agency,rec_area,lat,lon,reservable,booking,total_sites,el
 258567,Town Creek Hiker-Biker Overnight (Hbo) Campsite,WV,NPS,Chesapeake & Ohio Canal National Historical Park,39.524461,-78.538643,False,first-come,0,False,False,False,False,False,,True,,
 258595,City Of Rocks Campground,ID,NPS,City Of Rocks National Reserve,42.067203,-113.701382,False,first-come,0,False,False,False,False,False,,False,,https://www.nps.gov/ciro/planyourvisit/camping.htm
 258613,Lost Creek Campground,OR,NPS,Crater Lake National Park,42.879749,-122.038711,False,first-come,0,False,False,False,False,False,,False,,https://www.nps.gov/crla/planyourvisit/lost_creek.htm
-258617,Wilderness Road Campground,VA,NPS,Cumberland Gap National Historical Park,36.604460,-83.632539,True,reservable,154,True,False,False,True,True,50,False,https://www.recreation.gov/camping/campgrounds/258617,
+258617,Wilderness Road Campground,VA,NPS,Cumberland Gap National Historical Park,36.604460,-83.632539,True,reservable,154,True,False,False,True,True,50,False,https://www.recreation.gov/camping/campgrounds/258617,https://www.nps.gov/cuga/planyourvisit/campgrounds.htm
 258630,Sage Creek Campground,SD,NPS,Badlands National Park,43.893146,-102.414254,False,first-come,0,False,False,False,False,False,,True,,https://www.nps.gov/thingstodo/backcountry-camping-badl.htm
 258667,Crabtree Falls Campground,NC,NPS,Blue Ridge Parkway,35.565720,-82.486485,True,partly,84,False,False,False,True,True,55,False,https://www.recreation.gov/camping/campgrounds/258667,https://www.nps.gov/blri/planyourvisit/crabtree-falls-cg.htm
 258697,Spring Creek Campground,AR,NPS,Buffalo National River,36.029971,-92.584461,False,first-come,0,False,False,False,False,False,,False,,https://www.nps.gov/buff/planyourvisit/camping.htm
@@ -4181,7 +4182,7 @@ facility_id,name,state,agency,rec_area,lat,lon,reservable,booking,total_sites,el
 259084,Fairholme Campground,WA,NPS,Olympic National Park,48.070080,-123.918138,True,reservable,84,False,False,False,True,True,45,False,https://www.recreation.gov/camping/campgrounds/259084,https://www.nps.gov/olym/planyourvisit/lake-crescent-area-brochure.htm
 259111,Malaquite Campground,TX,NPS,Padre Island National Seashore,27.430230,-97.296189,False,first-come,0,False,False,False,False,False,,False,,https://www.nps.gov/pais/planyourvisit/malaquite_campground.htm
 259112,Bird Island Basin Campground,TX,NPS,Padre Island National Seashore,27.466794,-97.313693,False,first-come,0,False,False,False,False,False,,False,,https://www.nps.gov/pais/planyourvisit/bird-island-basin-campground.htm
-259169,Prince William Forest RV Campground,VA,NPS,Prince William Forest Park,38.603929,-77.350905,False,first-come,0,False,False,False,False,False,,False,,http://www.princewilliamforestrvcampground.com/
+259169,Prince William Forest RV Park,VA,NPS,Prince William Forest Park,38.603929,-77.350905,False,first-come,0,False,False,False,False,False,,False,,
 259170,Chopawamsic Backcountry Camping Permits,VA,NPS,Prince William Forest Park,38.558761,-77.406910,True,reservable,8,False,False,False,False,False,,False,https://www.recreation.gov/camping/campgrounds/259170,
 259179,Jedediah Smith Campground,CA,NPS,Redwood National and State Parks,41.795726,-124.086447,False,first-come,89,False,False,False,False,False,,False,,https://www.nps.gov/redw/planyourvisit/jedediah-smith-campground.htm
 259180,Mill Creek Campground,CA,NPS,Redwood National and State Parks,41.702724,-124.097785,False,first-come,145,False,False,False,False,False,,False,,https://www.nps.gov/redw/planyourvisit/mill-creek-campground.htm
