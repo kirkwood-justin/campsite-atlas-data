@@ -2422,7 +2422,7 @@ facility_id,name,state,agency,rec_area,lat,lon,reservable,booking,total_sites,el
 233170,Kimball Bend Park,TX,USACE,Whitney Lake,32.123333,-97.498056,True,reservable,36,True,True,False,True,True,45,False,https://www.recreation.gov/camping/campgrounds/233170,
 233172,Au Train Lake Campground,MI,FS,Hiawatha National Forest,46.391667,-86.838056,True,partly,34,False,False,False,True,True,60,False,https://www.recreation.gov/camping/campgrounds/233172,
 233173,Bay Furnace Campground,MI,FS,Hiawatha National Forest,46.438333,-86.708333,True,partly,49,False,False,False,True,True,65,False,https://www.recreation.gov/camping/campgrounds/233173,
-233174,Pete’S Lake Campground,MI,FS,Hiawatha National Forest,46.228189,-86.597000,True,partly,48,False,False,False,True,True,75,False,https://www.recreation.gov/camping/campgrounds/233174,
+233174,Pete's Lake Campground,MI,FS,Hiawatha National Forest,46.228189,-86.597000,True,partly,48,False,False,False,True,True,75,False,https://www.recreation.gov/camping/campgrounds/233174,
 233176,Elizabeth Furnace Group Camp,VA,FS,George Washington & Jefferson National Forest,38.931667,-78.320833,True,reservable,2,False,False,False,True,True,,False,https://www.recreation.gov/camping/campgrounds/233176,
 233180,Lewis,CA,FS,Tahoe National Forest,39.132125,-120.416891,True,reservable,40,False,False,False,True,False,45,False,https://www.recreation.gov/camping/campgrounds/233180,
 233181,Beaver Creek Campground,MT,FS,Custer Gallatin National Forest,44.861389,-111.372778,True,reservable,64,False,False,False,True,True,56,False,https://www.recreation.gov/camping/campgrounds/233181,
@@ -4457,7 +4457,7 @@ facility_id,name,state,agency,rec_area,lat,lon,reservable,booking,total_sites,el
 274437,Sawtooth Canyon Campground,CA,BLM,,34.670107,-116.983935,False,first-come,0,False,False,False,False,False,,True,,
 274471,Valley View Group Campground,NJ,NPS,Delaware Water Gap National Recreation Area,41.115174,-74.964946,True,reservable,5,False,False,False,False,True,,False,https://www.recreation.gov/camping/campgrounds/274471,https://www.nps.gov/dewa/planyourvisit/group-camping.htm
 274478,Trout Creek Campground,OR,BLM,Trout Creek Trail,44.815894,-121.095326,False,first-come,0,False,False,False,False,False,,False,,
-274721,Yellowbottom Recreation Site,OR,BLM,Quartzville Creek Wild and Scenic River,44.588910,-122.373360,True,reservable,21,False,False,False,True,True,70,False,https://www.recreation.gov/camping/campgrounds/274721,
+274721,Yellowbottom Recreation Site,OR,BLM,Quartzville Creek Wild and Scenic River,44.588910,-122.373360,True,reservable,21,False,False,False,True,True,70,True,https://www.recreation.gov/camping/campgrounds/274721,
 274864,Vedauwoo Designated Dispersed Campsites,WY,FS,Medicine Bow-Routt NFs & Thunder Basin NG,41.308540,-105.629614,False,first-come,0,False,False,False,False,False,,False,,
 274908,North Gorge Campground,WA,NPS,Lake Roosevelt National Recreation Area,48.785800,-118.000917,True,reservable,11,False,False,False,True,True,40,False,https://www.recreation.gov/camping/campgrounds/274908,https://www.nps.gov/laro/planyourvisit/cg-northgorge.htm
 274993,Marcus Island Campground,WA,NPS,Lake Roosevelt National Recreation Area,48.665750,-118.052767,True,reservable,25,False,False,False,True,True,46,False,https://www.recreation.gov/camping/campgrounds/274993,https://www.nps.gov/laro/planyourvisit/cg-marcusisland.htm
