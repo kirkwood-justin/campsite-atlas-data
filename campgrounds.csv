@@ -1247,7 +1247,7 @@ facility_id,name,state,agency,rec_area,lat,lon,reservable,booking,total_sites,el
 10406480,Stevens Pass Mountain Resort RV Lot,WA,FS,Mt. Baker-Snoqualmie National Forest,48.200422,-121.168213,True,reservable,60,True,False,False,True,True,40,False,https://www.recreation.gov/camping/campgrounds/10406480,
 10408724,Wilborn Creek Primitive Camping,IL,USACE,Lake Shelbyville,39.416498,-88.779661,True,reservable,7,False,False,False,True,True,,False,https://www.recreation.gov/camping/campgrounds/10408724,
 118440,Aspen Grove Campground,CA,FS,Lassen National Forest,40.555019,-120.774414,True,partly,28,False,False,False,True,True,50,False,https://www.recreation.gov/camping/campgrounds/118440,
-118994,Gentry Group Campground,AZ,FS,Apache-Sitgreaves National Forest,34.301083,-110.313222,True,reservable,1,False,False,False,False,True,,False,https://www.recreation.gov/camping/campgrounds/118994,
+118994,Gentry Group Campground,AZ,FS,Apache-Sitgreaves National Forest,34.301083,-110.313222,True,reservable,1,False,False,False,True,True,,False,https://www.recreation.gov/camping/campgrounds/118994,
 119040,Boley Field Group Campground,VA,FS,George Washington & Jefferson National Forest,37.249030,-80.527900,True,reservable,1,False,False,False,True,True,,False,https://www.recreation.gov/camping/campgrounds/119040,
 119090,Farewell Bend Campground,OR,FS,Rogue River-Siskiyou National Forest,42.915833,-122.435833,True,partly,63,False,False,False,True,True,40,False,https://www.recreation.gov/camping/campgrounds/119090,
 119140,Union Creek Campground,OR,FS,Rogue River-Siskiyou National Forest,42.906667,-122.448611,True,partly,79,True,True,True,True,True,40,False,https://www.recreation.gov/camping/campgrounds/119140,
