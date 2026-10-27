@@ -1345,7 +1345,7 @@ facility_id,name,state,agency,rec_area,lat,lon,reservable,booking,total_sites,el
 202084,Cutthroat Trout Campground,ID,BLM,Blackfoot River,43.022100,-111.512100,False,first-come,0,False,False,False,False,False,,True,,
 202085,Sage Hen Flats Campground,ID,BLM,Blackfoot River,43.020414,-111.826448,False,first-come,0,False,False,False,False,False,,True,,
 202091,Herd Lake Campground,ID,BLM,,44.094950,-114.181730,False,first-come,0,False,False,False,False,False,,False,,
-202101,Agency Creek Campground,ID,BLM,,44.949931,-113.558089,False,first-come,0,False,False,False,False,False,,False,,
+202101,Agency Creek Campground,ID,BLM,,44.949931,-113.558089,False,first-come,0,False,False,False,False,False,,True,,
 202102,Birch Creek Campground,ID,BLM,,44.139162,-112.899990,False,first-come,0,False,False,False,False,False,,False,,
 202121,Cleve Creek Campground,NV,BLM,,39.213400,-114.538200,False,first-come,0,False,False,False,False,False,,False,,
 202130,Upper Big Bend Campground,UT,BLM,,38.649330,-109.488190,False,first-come,0,False,False,False,False,False,,False,,
