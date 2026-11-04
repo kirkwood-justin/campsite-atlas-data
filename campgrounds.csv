@@ -955,7 +955,7 @@ facility_id,name,state,agency,rec_area,lat,lon,reservable,booking,total_sites,el
 10341441,Howard Lake Campground,CA,FS,Mendocino National Forest,39.8785,-122.9919,False,first-come,4,False,False,False,False,False,,False,,
 10341443,Howard Meadows Campground,CA,FS,Mendocino National Forest,39.878490,-122.991874,False,first-come,0,False,False,False,False,False,,False,,
 10341445,Little Doe Campground,CA,FS,Mendocino National Forest,39.8947,-122.9861,False,first-come,1,False,False,False,False,False,,False,,
-10341447,Moose Creek Group Use Area,MT,FS,Helena-Lewis and Clark National Forest,46.803054,-111.817514,True,reservable,1,False,False,False,True,True,,False,https://www.recreation.gov/camping/campgrounds/10341447,
+10341447,Moose Creek Group Use Area,MT,FS,Helena-Lewis and Clark National Forest,46.523500,-112.258149,True,reservable,1,False,False,False,True,True,,False,https://www.recreation.gov/camping/campgrounds/10341447,
 10341449,Penny Pines Campground,CA,FS,Mendocino National Forest,39.723420,-122.772903,False,first-come,10,False,False,False,True,True,,False,,
 10341460,Perch Lake Campground,WI,FS,Chequamegon-Nicolet NF,46.404400,-91.269700,True,reservable,16,False,False,False,True,True,35,False,https://www.recreation.gov/camping/campgrounds/10341460,
 10341479,Wanoka Campground,WI,FS,Chequamegon-Nicolet NF,46.246300,-90.866700,True,reservable,18,False,False,False,True,True,45,False,https://www.recreation.gov/camping/campgrounds/10341479,
