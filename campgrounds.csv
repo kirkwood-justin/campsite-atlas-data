@@ -599,6 +599,7 @@ facility_id,name,state,agency,rec_area,lat,lon,reservable,booking,total_sites,el
 10191110,Upper Penstemon Campground,ID,FS,Sawtooth National Forest,42.194344,-114.285877,False,first-come,0,False,False,False,False,False,,False,,
 10191115,Webster Lake,MN,FS,Chippewa National Forest,47.603435,-94.508474,True,partly,16,False,False,False,False,False,,False,https://www.recreation.gov/camping/campgrounds/10191115,
 10192012,Bobcat Lake Camp,MI,FS,Ottawa National Forest,46.359240,-89.672941,False,first-come,0,False,False,False,False,False,,False,,
+10192027,Conklin Park Family Campground Plumas NF,CA,FS,Plumas National Forest,40.046700,-120.368500,False,first-come,0,False,False,False,False,False,,False,,
 10192032,Crocker Campground,CA,FS,Plumas National Forest,39.891041,-120.421990,False,first-come,9,False,False,False,False,False,,False,,
 10192037,Dark Canyon Campground,CA,FS,San Bernardino National Forest,33.803978,-116.732053,False,first-come,0,False,False,False,False,False,,False,,
 10192042,Deanes Valley Family CG Plumas NF,CA,FS,Plumas National Forest,39.889637,-121.025063,True,partly,11,False,False,False,True,False,,False,https://www.recreation.gov/camping/campgrounds/10192042,
@@ -611,6 +612,7 @@ facility_id,name,state,agency,rec_area,lat,lon,reservable,booking,total_sites,el
 10192122,Pinyon Flat Campground,CA,FS,San Bernardino National Forest,33.584877,-116.456766,False,first-come,0,False,False,False,False,False,,False,,
 10192127,Pomeroy Lake Camp,MI,FS,Ottawa National Forest,46.281466,-89.573968,False,first-come,0,False,False,False,False,False,,False,,
 10192132,Rock Creek Campground,CA,FS,Plumas National Forest,39.901097,-121.135475,True,partly,10,False,False,False,True,False,,False,https://www.recreation.gov/camping/campgrounds/10192132,
+10192142,Ross Campground,CA,FS,Plumas National Forest,39.734625,-120.749923,False,first-come,0,False,False,False,False,False,,False,,
 10192147,Silver Lake Campground,CA,FS,Plumas National Forest,39.959080,-121.135474,True,partly,13,False,False,False,True,False,,False,https://www.recreation.gov/camping/campgrounds/10192147,
 10192152,Snake Lake Campground And Equestrian Camp,CA,FS,Plumas National Forest,39.973924,-121.015427,True,reservable,21,False,False,False,True,False,25,False,https://www.recreation.gov/camping/campgrounds/10192152,
 10196202,Sig Creek,CO,FS,San Juan National Forest,37.6335,-107.8838,True,reservable,9,False,False,False,True,False,,False,https://www.recreation.gov/camping/campgrounds/10196202,
@@ -1294,7 +1296,7 @@ facility_id,name,state,agency,rec_area,lat,lon,reservable,booking,total_sites,el
 14704,Corral Creek Campground,WY,BLM,,41.261087,-106.573294,False,first-come,0,False,False,False,False,False,,False,,
 14705,Encampment River Campground,WY,BLM,,41.182508,-106.794683,False,first-come,0,False,False,False,False,False,,False,,
 14707,Bobcat-Houlihan Campground,WY,BLM,,44.292798,-109.486559,False,first-come,0,False,False,False,False,False,,False,,
-14711,Hogan And Luce Campground,WY,BLM,,44.787900,-109.257711,False,first-come,0,False,False,False,False,False,,False,,
+14711,Hogan And Luce Campground,WY,BLM,,44.787900,-109.257711,False,first-come,0,False,False,False,False,False,,True,,
 14713,Prior Flat Campground,WY,BLM,,42.241940,-106.586249,False,first-come,0,False,False,False,False,False,,False,,
 14716,Slate Creek Campground,WY,BLM,,41.982707,-110.045444,False,first-come,0,False,False,False,False,False,,False,,
 14718,Weeping Rock Campground,WY,BLM,,42.020900,-110.049400,False,first-come,0,False,False,False,False,False,,False,,
@@ -3106,11 +3108,11 @@ facility_id,name,state,agency,rec_area,lat,lon,reservable,booking,total_sites,el
 234044,Big Spring,MO,NPS,Ozark National Scenic Riverways,36.962500,-90.983056,True,reservable,137,True,True,False,True,True,76,False,https://www.recreation.gov/camping/campgrounds/234044,https://www.nps.gov/ozar/planyourvisit/big-spring-campground-map11.htm
 234045,Round Spring,MO,NPS,Ozark National Scenic Riverways,37.283056,-91.408333,True,reservable,65,True,True,False,True,True,60,False,https://www.recreation.gov/camping/campgrounds/234045,https://www.nps.gov/ozar/planyourvisit/round-spring-campground.htm
 234046,Alley Spring,MO,NPS,Ozark National Scenic Riverways,37.147220,-91.449720,True,reservable,165,True,True,False,True,True,64,False,https://www.recreation.gov/camping/campgrounds/234046,https://www.nps.gov/ozar/planyourvisit/alley-spring-campground.htm
-234047,Buckhorn Campground (Chickasaw),OK,NPS,Chickasaw National Recreation Area,34.428889,-96.989722,True,reservable,137,True,True,True,True,True,60,False,https://www.recreation.gov/camping/campgrounds/234047,
-234048,The Point Campground (Chickasaw),OK,NPS,Chickasaw National Recreation Area,34.460000,-97.020000,True,reservable,16,True,True,False,True,True,60,False,https://www.recreation.gov/camping/campgrounds/234048,
+234047,Buckhorn Campground (Chickasaw),OK,NPS,Chickasaw National Recreation Area,34.428889,-96.989722,True,reservable,138,True,True,True,True,True,60,False,https://www.recreation.gov/camping/campgrounds/234047,
+234048,The Point Campground (Chickasaw),OK,NPS,Chickasaw National Recreation Area,34.460000,-97.020000,True,reservable,55,True,True,False,True,True,60,False,https://www.recreation.gov/camping/campgrounds/234048,
 234049,Cold Springs Campground (Chickasaw),OK,NPS,Chickasaw National Recreation Area,34.505000,-96.967500,True,reservable,64,False,False,False,True,True,18,False,https://www.recreation.gov/camping/campgrounds/234049,
 234050,Central Group Camp (Chickasaw),OK,NPS,Chickasaw National Recreation Area,34.505000,-96.967500,True,reservable,10,False,False,False,True,True,18,False,https://www.recreation.gov/camping/campgrounds/234050,
-234051,Rock Creek Group Camp (Chickasaw),OK,NPS,Chickasaw National Recreation Area,34.505000,-96.967500,True,partly,50,False,False,False,True,True,,False,https://www.recreation.gov/camping/campgrounds/234051,
+234051,Rock Creek Group Camp (Chickasaw),OK,NPS,Chickasaw National Recreation Area,34.505000,-96.967500,True,partly,60,False,False,False,True,True,,False,https://www.recreation.gov/camping/campgrounds/234051,
 234052,Black Canyon Of The Gunnison South Rim Campground,CO,NPS,Black Canyon Of The Gunnison National Park,38.550556,-107.686667,True,reservable,89,True,True,False,True,True,65,False,https://www.recreation.gov/camping/campgrounds/234052,
 234053,Elk Creek Campground,CO,NPS,Curecanti National Recreation Area,38.467778,-107.175833,True,reservable,153,True,False,False,True,True,62,False,https://www.recreation.gov/camping/campgrounds/234053,https://www.nps.gov/cure/planyourvisit/camp_elk_creek.htm
 234054,Lake Fork Campground,CO,NPS,Curecanti National Recreation Area,38.458889,-107.330000,True,reservable,83,False,False,False,True,True,52,False,https://www.recreation.gov/camping/campgrounds/234054,https://www.nps.gov/cure/planyourvisit/camp_lake_fork.htm
@@ -4507,7 +4509,6 @@ fs10988,Marian Campground,CA,FS,Los Padres National Forest,34.8803,-119.2156,Fal
 fs10996,Thorn Meadows Campground,CA,FS,Los Padres National Forest,34.6269,-119.1131,False,first-come,0,False,False,False,False,False,,True,,
 fs11129,Navajo Flat OHV Staging Area and campsites,CA,FS,Los Padres National Forest,35.379,-120.2841,True,reservable,5,False,False,False,False,False,,False,,
 fs11202,Meadow View Equestrian Campground,CA,FS,Plumas National Forest,40.0353,-120.2128,False,first-come,0,False,False,False,False,False,,False,,
-fs11204,Conklin Park Campground,CA,FS,Plumas National Forest,40.0472,-120.366,False,first-come,0,False,False,False,False,False,,False,,
 fs11205,Goose Lake Campground,CA,FS,Plumas National Forest,39.6756,-120.6364,False,first-come,13,False,False,False,False,False,,False,,
 fs11206,Haven Lake Campground,CA,FS,Plumas National Forest,39.6722,-120.6304,False,first-come,4,False,False,False,False,False,,False,,
 fs11214,Wyandotte Campground,CA,FS,Plumas National Forest,39.76,-121.93,True,reservable,30,False,False,False,False,False,,False,,
