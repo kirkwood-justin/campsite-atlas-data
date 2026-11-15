@@ -2011,7 +2011,7 @@ facility_id,name,state,agency,rec_area,lat,lon,reservable,booking,total_sites,el
 232511,Airport Park,TX,USACE,Waco Lake,31.610208,-97.236589,True,reservable,75,True,True,True,True,True,65,False,https://www.recreation.gov/camping/campgrounds/232511,
 232512,Alley Creek Camp,TX,USACE,Lake O' The Pines,32.799444,-94.591944,True,reservable,87,True,True,False,True,True,80,False,https://www.recreation.gov/camping/campgrounds/232512,
 232513,Amity,AL,USACE,West Point Lake,32.970833,-85.222222,True,reservable,75,True,True,False,True,True,55,False,https://www.recreation.gov/camping/campgrounds/232513,
-232515,Anderson Road Campground,TN,USACE,J Percy Priest Lake,36.106111,-86.603889,True,reservable,37,True,False,False,True,True,183,False,https://www.recreation.gov/camping/campgrounds/232515,
+232515,Anderson Road Campground,TN,USACE,J Percy Priest Lake,36.106111,-86.603889,True,reservable,37,True,False,False,True,True,146,False,https://www.recreation.gov/camping/campgrounds/232515,
 232516,Aunts Creek,MO,USACE,Table Rock Lake,36.673611,-93.459722,True,reservable,56,True,True,False,True,True,55,False,https://www.recreation.gov/camping/campgrounds/232516,
 232517,Aux Arc,AR,USACE,Ozark Lake,35.470278,-93.818056,True,reservable,91,True,True,True,True,True,86,False,https://www.recreation.gov/camping/campgrounds/232517,
 232519,Bald Ridge Creek,GA,USACE,Lake Sidney Lanier,34.208861,-84.087303,True,reservable,82,True,True,False,True,False,109,False,https://www.recreation.gov/camping/campgrounds/232519,
@@ -3112,7 +3112,7 @@ facility_id,name,state,agency,rec_area,lat,lon,reservable,booking,total_sites,el
 234048,The Point Campground (Chickasaw),OK,NPS,Chickasaw National Recreation Area,34.460000,-97.020000,True,reservable,55,True,True,False,True,True,60,False,https://www.recreation.gov/camping/campgrounds/234048,
 234049,Cold Springs Campground (Chickasaw),OK,NPS,Chickasaw National Recreation Area,34.505000,-96.967500,True,reservable,64,False,False,False,True,True,18,False,https://www.recreation.gov/camping/campgrounds/234049,
 234050,Central Group Camp (Chickasaw),OK,NPS,Chickasaw National Recreation Area,34.505000,-96.967500,True,reservable,10,False,False,False,True,True,18,False,https://www.recreation.gov/camping/campgrounds/234050,
-234051,Rock Creek Group Camp (Chickasaw),OK,NPS,Chickasaw National Recreation Area,34.505000,-96.967500,True,partly,60,False,False,False,True,True,,False,https://www.recreation.gov/camping/campgrounds/234051,
+234051,Rock Creek Group Camp (Chickasaw),OK,NPS,Chickasaw National Recreation Area,34.505000,-96.967500,True,partly,100,False,False,False,True,True,,False,https://www.recreation.gov/camping/campgrounds/234051,
 234052,Black Canyon Of The Gunnison South Rim Campground,CO,NPS,Black Canyon Of The Gunnison National Park,38.550556,-107.686667,True,reservable,89,True,True,False,True,True,65,False,https://www.recreation.gov/camping/campgrounds/234052,
 234053,Elk Creek Campground,CO,NPS,Curecanti National Recreation Area,38.467778,-107.175833,True,reservable,153,True,False,False,True,True,62,False,https://www.recreation.gov/camping/campgrounds/234053,https://www.nps.gov/cure/planyourvisit/camp_elk_creek.htm
 234054,Lake Fork Campground,CO,NPS,Curecanti National Recreation Area,38.458889,-107.330000,True,reservable,83,False,False,False,True,True,52,False,https://www.recreation.gov/camping/campgrounds/234054,https://www.nps.gov/cure/planyourvisit/camp_lake_fork.htm
